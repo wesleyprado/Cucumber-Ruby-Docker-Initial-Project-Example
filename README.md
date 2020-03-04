@@ -1,23 +1,35 @@
-Cucumber+Ruby+Docker-Initial-Project-Example
+# Cucumber+Ruby+Docker-Initial-Project-Example
+> A simple example to start a httparty project with cucumber and docker
 
-Pré requesites:
 
-Ruby
+## Pré requesites:
 
+## Ruby
+
+```sh
   Windows install:https://rubyinstaller.org/downloads/
+  ```
+ ```sh
   Linux install:sudo apt-get install ruby-full
+ ```
   
-Docker
+## Docker
 
+```sh
   Windows install:https://hub.docker.com/editions/community/docker-ce-desktop-windows/
+  ```
+```sh
   Linux install:https://runnable.com/docker/install-docker-on-linux
-	
-VsCode
+```	
+## VsCode
 
+```sh
   Windows install:https://code.visualstudio.com/download
+ ```
+```sh
   Linux install:https://code.visualstudio.com/download
-
-VsCode Extensions:
+```
+## VsCode Extensions:
 
   Ruby	
   Docker
@@ -26,20 +38,20 @@ VsCode Extensions:
   VSCode Ruby
   vscode-icons
 	
-Download the project or clone it and after in the project path run:
+## Download the project or clone it and after in the project path run:
 
 gem install bundler
 bundle install
 
-To run the project
+## To run the project
 
 cucumber run -p dev -p html
 
-To run the tests in docker
+## To run the tests in docker
 
 docker-compose build
 docker-compose up
 
-To generate the allure report
+## To generate the allure report
 
 allure serve allure-results
