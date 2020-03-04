@@ -40,18 +40,23 @@
 	
 ## Download the project or clone it and after in the project path run:
 
+```sh
 gem install bundler
 bundle install
-
+```
 ## To run the project
 
+ ```sh
 cucumber run -p dev -p html
-
+```
 ## To run the tests in docker
 
+ ```sh
 docker-compose build
 docker-compose up
-
+```
 ## To generate the allure report
 
+ ```sh
 allure serve allure-results
+```
