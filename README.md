@@ -44,10 +44,20 @@
 gem install bundler
 bundle install
 ```
-## To run the project
+## To run the tests in dev
 
  ```sh
 cucumber run -p dev -p html
+```
+## To run the tests in homolog
+
+ ```sh
+cucumber run -p hmg -p html
+```
+## To run the tests in prod
+
+ ```sh
+cucumber run -p prod -p html
 ```
 ## To run the tests in docker
 
