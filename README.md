@@ -31,12 +31,12 @@
 ```
 ## VsCode Extensions:
 
-  Ruby	
-  Docker
-  Cucumber-mapper-ruby	
-  Snippets and Syntax Highlight for Gherkin (Cucumber)	
-  VSCode Ruby
-  vscode-icons
+  * Ruby	
+  * Docker
+  * Cucumber-mapper-ruby	
+  * Snippets and Syntax Highlight for Gherkin (Cucumber)	
+  * VSCode Ruby
+  * vscode-icons
 	
 ## Download the project or clone it and after in the project path run:
 
