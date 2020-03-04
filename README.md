@@ -7,27 +7,27 @@
 ## Ruby
 
 ```sh
-  Windows install:https://rubyinstaller.org/downloads/
+  Windows Install:  https://rubyinstaller.org/downloads/
   ```
  ```sh
-  Linux install:sudo apt-get install ruby-full
+  Linux Install:  sudo apt-get install ruby-full
  ```
   
 ## Docker
 
 ```sh
-  Windows install:https://hub.docker.com/editions/community/docker-ce-desktop-windows/
+  Windows Install:  https://hub.docker.com/editions/community/docker-ce-desktop-windows/
   ```
 ```sh
-  Linux install:https://runnable.com/docker/install-docker-on-linux
+  Linux Install:  https://runnable.com/docker/install-docker-on-linux
 ```	
 ## VsCode
 
 ```sh
-  Windows install:https://code.visualstudio.com/download
+  Windows Install:  https://code.visualstudio.com/download
  ```
 ```sh
-  Linux install:https://code.visualstudio.com/download
+  Linux Install:  https://code.visualstudio.com/download
 ```
 ## VsCode Extensions:
 
